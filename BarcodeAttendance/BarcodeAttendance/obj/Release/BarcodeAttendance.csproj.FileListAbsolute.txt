@@ -1,0 +1,12 @@
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.csprojResolveAssemblyReference.cache
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.AddStudent.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.AttendanceReport.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.CheckAttendance.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.LoginWindow.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.MainWindow.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.ManageUserWindow.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.Properties.Resources.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.TakeAttendance.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.ViewAttendance.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.ViewStudent.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Release\BarcodeAttendance.csproj.GenerateResource.Cache

@@ -1,0 +1,60 @@
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\BarcodeAttendance.exe.config
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\BCADatabase.mdf
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\BCADatabase_log.ldf
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\BarcodeAttendance.exe
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\BarcodeAttendance.pdb
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\AForge.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\AForge.Imaging.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\AForge.Math.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\AForge.Video.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\BCA.Data.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\unitacitt.WebcamQRCodeScanner.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\zxing.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\zxing.presentation.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\BCA.Data.pdb
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\unitacitt.WebcamQRCodeScanner.pdb
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\AForge.xml
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\AForge.Imaging.xml
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\AForge.Math.xml
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\AForge.Video.xml
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\zxing.pdb
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\zxing.xml
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\zxing.presentation.pdb
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\bin\Debug\zxing.presentation.xml
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.csprojResolveAssemblyReference.cache
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.AddStudent.resources
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\Barcode_Attendence_System.CheckAttendance.resources
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.LoginWindow.resources
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.MainWindow.resources
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.Properties.Resources.resources
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.TakeAttendance.resources
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.ViewAttendance.resources
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\Barcode_Attendence_System.ViewStudent.resources
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.csproj.GenerateResource.Cache
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.exe
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.pdb
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\bin\Debug\BCADatabase.mdf
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\bin\Debug\BCADatabase_log.ldf
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\bin\Debug\BarcodeAttendance.exe.config
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\bin\Debug\BarcodeAttendance.exe
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\bin\Debug\BarcodeAttendance.pdb
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\bin\Debug\BCA.Data.dll
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\bin\Debug\unitacitt.WebcamQRCodeScanner.dll
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\bin\Debug\BCA.Data.pdb
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\bin\Debug\unitacitt.WebcamQRCodeScanner.pdb
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.csprojResolveAssemblyReference.cache
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.csproj.ResolveComReference.cache
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.AddStudent.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.AttendanceReport.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.LoginWindow.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.MainWindow.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.ManageUserWindow.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.Properties.Resources.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.TakeAttendance.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.ViewAttendance.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.ViewStudent.resources
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.csproj.GenerateResource.Cache
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.exe
+C:\Pendrive\BarcodeAttendance\BarcodeAttendance\obj\Debug\BarcodeAttendance.pdb
