@@ -1,0 +1,14 @@
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BCA.Data\bin\Debug\BCADatabase.mdf
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BCA.Data\bin\Debug\BCADatabase_log.ldf
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BCA.Data\bin\Debug\BCA.Data.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BCA.Data\bin\Debug\BCA.Data.pdb
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BCA.Data\obj\Debug\BCA.Data.csprojResolveAssemblyReference.cache
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BCA.Data\obj\Debug\BCA.Data.dll
+C:\Users\Srishti Rao\Documents\Visual Studio 2015\Projects\BarcodeAttendance\BCA.Data\obj\Debug\BCA.Data.pdb
+C:\Pendrive\BarcodeAttendance\BCA.Data\bin\Debug\BCADatabase.mdf
+C:\Pendrive\BarcodeAttendance\BCA.Data\bin\Debug\BCADatabase_log.ldf
+C:\Pendrive\BarcodeAttendance\BCA.Data\bin\Debug\BCA.Data.dll
+C:\Pendrive\BarcodeAttendance\BCA.Data\bin\Debug\BCA.Data.pdb
+C:\Pendrive\BarcodeAttendance\BCA.Data\obj\Debug\BCA.Data.csprojResolveAssemblyReference.cache
+C:\Pendrive\BarcodeAttendance\BCA.Data\obj\Debug\BCA.Data.dll
+C:\Pendrive\BarcodeAttendance\BCA.Data\obj\Debug\BCA.Data.pdb

@@ -1,0 +1,6 @@
+C:\Pendrive\BarcodeAttendance\BCA.Data\bin\Release\BCADatabase.mdf
+C:\Pendrive\BarcodeAttendance\BCA.Data\bin\Release\BCADatabase_log.ldf
+C:\Pendrive\BarcodeAttendance\BCA.Data\bin\Release\BCA.Data.dll
+C:\Pendrive\BarcodeAttendance\BCA.Data\bin\Release\BCA.Data.pdb
+C:\Pendrive\BarcodeAttendance\BCA.Data\obj\Release\BCA.Data.dll
+C:\Pendrive\BarcodeAttendance\BCA.Data\obj\Release\BCA.Data.pdb
